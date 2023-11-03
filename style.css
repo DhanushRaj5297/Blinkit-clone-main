@@ -80,6 +80,7 @@ nav{
 
 .category-head>h2{
     font-size: 24px;
+    margin-left: 8px;
 }
 
 .category-head>p{
@@ -232,6 +233,7 @@ td:hover{
     color: yellowgreen;
     cursor: pointer;
 }
+
 
 footer>p{
     text-align: center; 
